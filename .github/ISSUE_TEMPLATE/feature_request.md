@@ -1,17 +1,19 @@
 ---
-name: "💡 Feature Request"
-description: Suggest a new feature or enhancement
-labels: [enhancement]
+name: 🌟 Feature Request
+about: Suggest a new idea or enhancement for ControlFront
+title: "[Feature]: "
+labels: enhancement
+assignees: ""
 ---
 
-**Describe the feature**  
-What would you like ControlFront to do?
+**Is your feature request related to a problem?**
+Please describe the problem you're facing.
 
-**Why is this needed?**  
-Explain the problem this solves or improves.
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-**Any examples or mockups?**  
-If helpful, include examples, links, or mock screenshots.
+**Describe alternatives you’ve considered**
+Any alternative solutions or features you’ve thought of.
 
-**Additional context**  
-Anything else we should know?
+**Additional context**
+Add any other context or screenshots here.
