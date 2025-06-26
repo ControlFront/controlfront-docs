@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Ask a question or get help
-    url: https://github.com/ControlFront/controlfront-docs/discussions
-    about: Ask a question or request general support in Discussions
+  - name: 💬 Ask a question or get help
+    url: https://github.com/controlfront/controlfront-docs/discussions
+    about: Use GitHub Discussions for general questions or community support.
