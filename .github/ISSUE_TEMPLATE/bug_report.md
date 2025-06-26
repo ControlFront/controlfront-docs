@@ -1,29 +1,30 @@
 ---
 name: 🐞 Bug Report
-about: Report a bug to help us improve ControlFront
+about: Report a bug to help improve ControlFront
 title: "[Bug]: "
 labels: bug
-assignees: ''
+assignees: ""
 ---
 
-**Describe the bug**  
-A clear and concise description of the issue.
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-**To Reproduce**  
-Steps to reproduce the behavior:  
-1. Run '...'  
-2. See error '...'
+**Steps to reproduce**
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
 
-**Expected behavior**  
+**Expected behavior**
 What you expected to happen.
 
-**Screenshots / Logs**  
-Paste any logs or screenshots if available.
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-**Environment (please complete the following):**  
-- OS: [e.g. MacOS, Windows]  
-- CLI version: [e.g. 0.1.2]  
-- Node version (if relevant):
+**Environment (please complete the following):**
+- OS:
+- Browser:
+- ControlFront version (CLI or Web):
 
-**Additional context**  
+**Additional context**
 Add any other context about the problem here.
