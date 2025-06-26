@@ -1,16 +1,19 @@
 ---
-name: 📝 Docs Improvement
-about: Suggest improvements or additions to ControlFront’s documentation
-title: "[Docs]: "
-labels: documentation
+name: 🌟 Feature Request
+about: Suggest a new idea or enhancement for ControlFront
+title: "[Feature]: "
+labels: enhancement
 assignees: ""
 ---
 
-**What part of the docs needs improvement?**
-Link or describe the section/page.
+**Is your feature request related to a problem?**
+Please describe the problem you're facing.
 
-**Describe the improvement**
-What should be changed or added?
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you’ve considered**
+Any alternative solutions or features you’ve thought of.
 
 **Additional context**
-Add context, screenshots, or references.
+Add any other context or screenshots here.
