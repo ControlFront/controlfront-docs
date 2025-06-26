@@ -1,7 +1,9 @@
 ---
-name: "🐞 Bug Report"
-description: Report a bug with ControlFront CLI, web app, or detection engine.
-labels: [bug]
+name: 🐞 Bug Report
+about: Report a bug to help us improve ControlFront
+title: "[Bug]: "
+labels: bug
+assignees: ''
 ---
 
 **Describe the bug**  
