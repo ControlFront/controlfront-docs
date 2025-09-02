@@ -1,4 +1,4 @@
-name: ControlFront Scan
+name: ControlFront Scan (DEV)
 permissions:
   actions: write
   contents: read
@@ -7,10 +7,16 @@ on:
     branches:
       - main
       - master
+    paths-ignore:
+      - ".github/workflows/*.yml"
+      - ".github/workflows/*.yaml"
   pull_request:
     branches:
       - main
       - master
+    paths-ignore:
+      - ".github/workflows/*.yml"
+      - ".github/workflows/*.yaml"
   workflow_dispatch:
 jobs:
   scan:
@@ -26,7 +32,7 @@ jobs:
         run: npx -y @controlfront/cli@latest scan
         env:
           NEXT_PUBLIC_APP_URL: https://cf-dev-x8a9k2h1r7v3pzq5.ngrok.app
-          CF_ORG_ID: c1052def-d320-4318-a737-e4348c576543
-          CF_PROJECT_ID: 6d1ab470-c352-4214-ac05-d09217c305b7
+          CF_ORG_ID: b85dfc0f-8310-4002-85d6-e501a8601088
+          CF_PROJECT_ID: 5d1b2723-1deb-418f-84e0-6c318e0333af
           CF_CI_MODE: "true"
-          CF_INGEST_TOKEN: RdqiLNAHQCapI-eo3JCtY-XRxZPal4_reYFYPf-vh9o
+          CF_INGEST_TOKEN: iURFryn-FnHGry-BqNj87KNtKH_e2S5UmsdnThoiKVQ
